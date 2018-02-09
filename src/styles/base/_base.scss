@@ -1,0 +1,13 @@
+*{
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html, body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+canvas {
+  background: #1e1e1e;
+}
